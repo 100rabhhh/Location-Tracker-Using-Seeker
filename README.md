@@ -33,5 +33,10 @@
         This project is a great way to understand how location data can be ethically accessed and analyzed for security purposes. Remember, always use such tools responsibly and with proper authorization. 🤝🔏
     </p>
     <p>Feel free to explore and make improvements! Happy ethical hacking! 💡✨</p>
+    <h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+
+<h2>📄 License</h2>
+<p>This project is licensed under the <strong>MIT License</strong>
 </body>
 </html>
